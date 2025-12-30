@@ -1,0 +1,54 @@
+{
+  "participations": [
+    {
+      "idform": "2",
+      "idemp": 1,
+      "id": "40e7"
+    },
+    {
+      "idform": 2,
+      "idemp": 5,
+      "id": "9161"
+    },
+    {
+      "idform": 3,
+      "idemp": 3,
+      "id": "d325"
+    },
+    {
+      "idform": 4,
+      "idemp": "10",
+      "id": "0f75"
+    },
+    {
+      "idform": 6,
+      "idemp": 5,
+      "id": "eb26"
+    },
+    {
+      "idform": 7,
+      "idemp": 4,
+      "id": "b205"
+    },
+    {
+      "idform": 8,
+      "idemp": 6,
+      "id": "5862"
+    },
+    {
+      "idform": 9,
+      "idemp": 10,
+      "id": "f199"
+    },
+    {
+      "idform": 10,
+      "idemp": 7,
+      "id": "7174"
+    },
+    {
+      "idform": 2,
+      "idemp": 3,
+      "id": "9d0c"
+    }
+  ]
+}

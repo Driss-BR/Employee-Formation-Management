@@ -1,0 +1,88 @@
+{
+  "formations": [
+    {
+      "id": "2",
+      "sujet": "Framework Angular",
+      "datedebut": "2025-12-16",
+      "datefin": "2025-12-21",
+      "etat": "terminée"
+    },
+    {
+      "id": "3",
+      "sujet": "PHP Laravel 12",
+      "datedebut": "2025-12-29",
+      "datefin": "2026-01-02",
+      "etat": "en cours"
+    },
+    {
+      "id": "4",
+      "sujet": "Python for Data Science",
+      "datedebut": "2025-11-01",
+      "datefin": "2025-11-10",
+      "etat": "terminée"
+    },
+    {
+      "id": "5",
+      "sujet": "Cyber Security",
+      "datedebut": "2025-12-20",
+      "datefin": "2025-12-25",
+      "etat": "terminée"
+    },
+    {
+      "id": "6",
+      "sujet": "Cloud Computing (AWS)",
+      "datedebut": "2026-01-10",
+      "datefin": "2026-01-15",
+      "etat": "programmée"
+    },
+    {
+      "id": "7",
+      "sujet": "Soft Skills & Leadership",
+      "datedebut": "2025-10-05",
+      "datefin": "2025-10-07",
+      "etat": "terminée"
+    },
+    {
+      "id": "8",
+      "sujet": "React JS",
+      "datedebut": "2025-12-18",
+      "datefin": "2025-12-24",
+      "etat": "terminée"
+    },
+    {
+      "id": "9",
+      "sujet": "Mobile Dev (Flutter)",
+      "datedebut": "2026-02-15",
+      "datefin": "2026-02-20",
+      "etat": "programmée"
+    },
+    {
+      "id": "10",
+      "sujet": "Digital Marketing",
+      "datedebut": "2025-12-01",
+      "datefin": "2025-12-05",
+      "etat": "terminée"
+    },
+    {
+      "id": "11",
+      "sujet": "php laravel",
+      "datedebut": "2025-12-27",
+      "datefin": "2025-12-31",
+      "etat": "en cours"
+    },
+    {
+      "id": "38d4e328-cf29-40d8-bf3d-9e4d95af59e4",
+      "sujet": "Framework Angular",
+      "datedebut": "2025-12-29",
+      "datefin": "2025-12-31",
+      "etat": "en cours"
+    },
+    {
+      "id": "de359cb0-d3cc-4b4e-89ff-d864f6985b9d",
+      "sujet": "dddd",
+      "datedebut": "2025-12-29",
+      "datefin": "2025-12-29",
+      "etat": "terminée"
+    }
+  ]
+}

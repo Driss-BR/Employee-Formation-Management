@@ -1,0 +1,74 @@
+{
+  "employes": [
+    {
+      "id": "1",
+      "nom": "Driss Fariss",
+      "grade": "Technicien",
+      "sexe": "m",
+      "salaire": 7500
+    },
+    {
+      "id": "3",
+      "nom": "Alami",
+      "grade": "Managero",
+      "sexe": "m",
+      "salaire": 15000
+    },
+    {
+      "id": "4",
+      "nom": "Idrissi",
+      "grade": "Technicien",
+      "sexe": "f",
+      "salaire": 8000
+    },
+    {
+      "id": "5",
+      "nom": "Tazi",
+      "grade": "Ingénieur",
+      "sexe": "m",
+      "salaire": 11000
+    },
+    {
+      "id": "6",
+      "nom": "Bennani",
+      "grade": "Analyste",
+      "sexe": "f",
+      "salaire": 9500
+    },
+    {
+      "id": "7",
+      "nom": "Mansouri",
+      "grade": "Technicien",
+      "sexe": "m",
+      "salaire": 7200
+    },
+    {
+      "id": "9",
+      "nom": "Fassi",
+      "grade": "Directeur",
+      "sexe": "m",
+      "salaire": 20000
+    },
+    {
+      "id": "10",
+      "nom": "Amrani",
+      "grade": "Comptable",
+      "sexe": "f",
+      "salaire": 8500
+    },
+    {
+      "id": "11",
+      "nom": "khalid",
+      "grade": "Technicien",
+      "salaire": "7200",
+      "sexe": "m"
+    },
+    {
+      "nom": "fatima momadi",
+      "grade": "Ingénieur",
+      "salaire": "75000",
+      "sexe": "f",
+      "id": "12"
+    }
+  ]
+}
